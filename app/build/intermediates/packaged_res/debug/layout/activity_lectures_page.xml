@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:focusableInTouchMode="true"
+    android:id="@+id/root_layout"
+    tools:context=".lecturesPage">
+
+
+<RelativeLayout
+    android:layout_width="1100dp"
+    android:layout_height="match_parent">
+
+  <SearchView
+      android:id="@+id/searchView"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:queryHint="Search Word"
+      android:layout_marginStart="10dp"
+      android:iconifiedByDefault="false"/>
+<RelativeLayout
+    android:layout_width="1100dp"
+    android:layout_height="match_parent"
+    android:layout_marginTop="35dp"
+    android:background="@drawable/table">
+
+
+
+  <TextView
+      android:id="@+id/headerleft"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="170dp"
+      android:layout_marginTop="20dp"
+      android:text="txt"
+      android:textColor="@color/black"
+      android:textSize="18sp"
+      android:textStyle="bold" />
+
+
+
+
+
+
+  <ListView
+      android:id="@+id/leftrow_list_urdu"
+      android:layout_width="136dp"
+      android:layout_height="match_parent"
+      android:layout_marginStart="155dp"
+      android:layout_marginTop="60dp" />
+
+
+  <ListView
+      android:id="@+id/leftrow_list_eng"
+      android:layout_width="136dp"
+      android:layout_height="match_parent"
+      android:layout_marginStart="15dp"
+      android:layout_marginTop="60dp"/>
+
+  <ListView
+      android:id="@+id/leftrow_list_arabic"
+      android:layout_width="136dp"
+      android:layout_height="match_parent"
+      android:layout_marginStart="290dp"
+      android:layout_marginTop="60dp"/>
+  <ListView
+      android:id="@+id/leftrow_list_audio"
+      android:layout_width="116dp"
+      android:layout_height="match_parent"
+      android:layout_marginStart="420dp"
+      android:layout_marginTop="60dp"/>
+
+
+
+
+  <TextView
+      android:id="@+id/headerright"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_marginStart="700dp"
+      android:layout_marginTop="20dp"
+      android:text="txt"
+      android:textColor="@color/black"
+      android:textSize="18sp"
+      android:textStyle="bold" />
+
+  <ListView
+      android:id="@+id/rightrow_list_eng"
+      android:layout_width="136dp"
+      android:layout_height="match_parent"
+      android:layout_marginStart="550dp"
+      android:layout_marginTop="60dp"/>
+
+  <ListView
+      android:id="@+id/rightrow_list_urdu"
+      android:layout_width="136dp"
+      android:layout_height="match_parent"
+      android:layout_marginStart="686dp"
+      android:layout_marginTop="60dp"/>
+
+  <ListView
+      android:id="@+id/right_list_arabic"
+      android:layout_width="136dp"
+      android:layout_height="match_parent"
+      android:layout_marginStart="825dp"
+      android:layout_marginTop="60dp"/>
+  <ListView
+      android:id="@+id/right_list_audio"
+      android:layout_width="116dp"
+      android:layout_height="match_parent"
+      android:layout_toRightOf="@+id/right_list_arabic"
+      android:layout_marginTop="60dp"/>
+
+</RelativeLayout>
+
+</RelativeLayout>
+
+</HorizontalScrollView>

@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\layout_activity_parentpage.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\layout\\activity_parentpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\layout_activity_lectures_page.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\layout\\activity_lectures_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\layout_activity_childform.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\layout\\activity_childform.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\layout_audio_button_item.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\layout\\audio_button_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\drawable_bg3.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\drawable\\bg3.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\drawable_table.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\drawable\\table.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-pngs-20:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\drawable_bg1.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\drawable\\bg1.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\drawable_ss.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\drawable\\ss.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\layout_lecture_no_item.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\layout\\lecture_no_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\drawable_border.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\drawable_bg2.jpg.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\drawable\\bg2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\drawable_sound.png.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\drawable\\sound.png"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\layout_activity_childpage.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\layout\\activity_childpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "com.example.quranapp-merged_res-25:/layout_audio_button_item.xml.flat",
+        "source": "com.example.quranapp-main-27:/layout/audio_button_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\layout_childitem.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\layout\\childitem.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-merged_res-25:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Dell\\.gradle\\daemon\\7.4\\com.example.quranapp-main-27:\\xml\\data_extraction_rules.xml"
+    }
+]
